@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="432" viewBox="0 0 640 432" role="img" aria-labelledby="title desc">
+  <title id="title">ghostface2232 · Designer. Building with AI.</title>
+  <desc id="desc">디자이너가 AI와 함께 소프트웨어를 만드는 작업을 표현한 타이포그래피와 베지어 곡선 그래픽. Design, AI-assisted coding, macOS · Windows · Web.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#14191F"/><stop offset="1" stop-color="#1D2632"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#365B8D" stop-opacity=".65"/><stop offset="1" stop-color="#365B8D" stop-opacity="0"/></radialGradient>
+    <linearGradient id="surface" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#263340" stop-opacity=".92"/><stop offset="1" stop-color="#263340" stop-opacity=".6"/></linearGradient>
+    <clipPath id="panel"><rect x="1" y="1" width="638" height="430" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#panel)">
+    <rect width="640" height="432" fill="url(#background)"/>
+    <ellipse cx="592" cy="248" rx="352" ry="312" fill="url(#glow)"/>
+    <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', sans-serif">
+      <text x="32" y="54" fill="#A7B1BF" font-size="23" font-weight="500" letter-spacing=".2">Mingwan Bae · ghostface2232</text>
+      <text x="29" y="136" fill="#F4F6FA" font-size="68" font-weight="700" letter-spacing="-3">Designer.</text>
+      <text x="29" y="208" fill="#F4F6FA" font-size="60" font-weight="700" letter-spacing="-2.5">Building with AI.</text>
+      <text x="32" y="256" fill="#A7B1BF" font-size="24">Design. Code. Make it real.</text>
+    </g>
+    <g transform="translate(189 26) scale(.35)">
+    <g fill="url(#surface)" stroke="#374455" stroke-width="1.5">
+      <rect x="882" y="89" width="222" height="246" rx="24" transform="rotate(8 993 212)"/>
+      <rect x="832" y="119" width="252" height="246" rx="24"/>
+    </g>
+    <g stroke="#607187" stroke-width="1" opacity=".2">
+      <path d="M864 159h188M864 199h188M864 239h188M864 279h188M864 319h188"/>
+      <path d="M878 149v186M918 149v186M958 149v186M998 149v186M1038 149v186"/>
+    </g>
+    <g stroke="#85B7FF" stroke-width="1.5" stroke-linecap="round" opacity=".8">
+      <path d="M876 293l6-111M1032 197l-6 104"/>
+    </g>
+    <path d="M876 293C882 182 1026 301 1032 197" fill="none" stroke="#85B7FF" stroke-width="5" stroke-linecap="round"/>
+    <g fill="#263340" stroke="#85B7FF" stroke-width="2.5">
+      <rect x="870" y="287" width="12" height="12" rx="2"/>
+      <rect x="1026" y="191" width="12" height="12" rx="2"/>
+      <circle cx="882" cy="182" r="4"/>
+      <circle cx="1026" cy="301" r="4"/>
+    </g>
+    <g fill="none" stroke="#A7B1BF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".8">
+      <path d="M1009 145l-6 6 6 6M1039 145l6 6-6 6M1027 143l-6 16"/>
+    </g>
+    </g>
+    <g transform="translate(32 296)">
+      <rect x=".75" y=".75" width="142.5" height="42.5" rx="21.5" fill="#202B37" stroke="#3B4A5C" stroke-width="1.5"/>
+      <g fill="none" stroke="#C4CEDA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 22h14M25 15v14"/></g>
+      <text x="49" y="29" fill="#C4CEDA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', sans-serif" font-size="22" font-weight="500">Design</text>
+    </g>
+    <g transform="translate(188 296)">
+      <rect x=".75" y=".75" width="262.5" height="42.5" rx="21.5" fill="#24364E" stroke="#3F5F89" stroke-width="1.5"/>
+      <g fill="none" stroke="#A9CCFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 15l-7 7 7 7M31 15l7 7-7 7"/></g>
+      <text x="49" y="29" fill="#A9CCFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', sans-serif" font-size="22" font-weight="500">AI-assisted coding</text>
+    </g>
+    <g transform="translate(32 352)">
+      <rect x=".75" y=".75" width="328.5" height="42.5" rx="21.5" fill="#202B37" stroke="#3B4A5C" stroke-width="1.5"/>
+      <g fill="none" stroke="#C4CEDA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="16" y="13" width="20" height="15" rx="2.5"/><path d="M21 33h10M26 28v5"/></g>
+      <text x="49" y="29" fill="#C4CEDA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', sans-serif" font-size="22" font-weight="500">macOS · Windows · Web</text>
+    </g>
+  </g>
+  <rect x=".75" y=".75" width="638.5" height="430.5" rx="28" fill="none" stroke="#374455" stroke-width="1.5"/>
+</svg>
+
