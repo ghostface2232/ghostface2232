@@ -1,60 +1,63 @@
-<h1 align="center">Mingwan Bae</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-light.svg">
+  <img src="assets/profile-light.svg" alt="ghostface2232 · Designer. Building with AI." width="100%">
+</picture>
 
 <p align="center">
-  <strong>데스크톱 앱과 브라우저에서 쓰는 설계 도구를 만듭니다.</strong><br>
-  @ghostface2232
+  <img src="assets/design.svg" alt="Design" height="30">
+  &nbsp;
+  <img src="assets/ai-code.svg" alt="AI-assisted coding" height="30">
+  &nbsp;
+  <img src="assets/platforms.svg" alt="macOS · Windows · Web" height="30">
 </p>
 
-<p align="center">
-  <a href="#소개">소개</a> ·
-  <a href="#대표-프로젝트">대표 프로젝트</a> ·
-  <a href="#그-밖의-작업">그 밖의 작업</a>
-</p>
+<br>
 
-## 소개
+## 안녕하세요, Mingwan Bae입니다.
 
-자주 쓰는 도구에서 한 번 더 클릭하거나 다른 창을 열어야 하는 순간에 관심이 있습니다. 코딩 도구의 남은 사용량은 메뉴 막대에서 바로 보고, 할 일은 날짜 선택 창을 열기 전에 평소 쓰는 문장 그대로 입력할 수 있게 만들었습니다.
+**디자이너입니다. AI와 함께 코딩하며, 아이디어를 직접 쓸 수 있는 소프트웨어로 만듭니다.**
 
-화면에서 쓰기 편한 만큼 데이터도 다루기 쉬웠으면 합니다. Noten은 노트를 Markdown 파일로 저장하고, Cue는 할 일을 개별 파일로 남깁니다. 웹에서는 구멍의 크기와 간격을 바꿔 타공 패턴을 그려보거나, 스피커 형상을 바꿨을 때 소리가 어떻게 퍼지는지 살펴보는 도구를 만듭니다.
+화면을 디자인하는 데서 한 걸음 더 나아가, 실제로 작동하는 도구를 만들어 보고 있습니다. 메모를 쓰고 생각을 연결하는 앱, 일상에서 반복하는 조작을 줄이는 유틸리티, 형태와 패턴을 탐색하는 도구가 그 결과물입니다.
 
-## 대표 프로젝트
+디자인과 구현 사이를 오가면서 UI와 인터랙션, 운영체제에 어울리는 사용감, 기록을 저장하는 방식까지 함께 살펴봅니다. AI는 그 과정에서 아이디어를 코드로 옮기고, 직접 써보며 수정할 수 있도록 돕는 작업 도구입니다.
 
-### [AgentGauge](https://github.com/ghostface2232/AgentGauge) · macOS / Windows
+<br>
 
-Claude Code, Codex 등 AI 코딩 도구의 사용량을 macOS 메뉴 막대와 Windows 시스템 트레이에서 확인하는 앱입니다. 남은 한도와 초기화 시각을 한눈에 보여주고, 평소보다 빠르게 한도를 쓰고 있을 때 알려줍니다.
+## 관심을 두는 것
 
-[소스 코드](https://github.com/ghostface2232/AgentGauge) · [다운로드](https://github.com/ghostface2232/AgentGauge/releases)
+**익숙하고 자연스러운 인터페이스**  
+macOS와 Windows가 가진 조작 방식과 시각 언어를 살펴봅니다. 타이포그래피와 여백뿐 아니라 키보드 입력, 창의 동작, 작은 피드백처럼 사용하면서 느끼는 부분에도 관심이 있습니다.
+
+**직접 사용할 수 있는 작은 도구**  
+글쓰기와 메모, 할 일 정리, 코딩처럼 일상과 가까운 문제를 다룹니다. 로컬에 남는 파일, 자연스러운 한국어 입력, 필요한 순간에 바로 쓸 수 있는 도구를 만들고 있습니다.
+
+**코드로 넓어지는 디자인 작업**  
+패턴의 밀도와 간격을 조절하고, 소재를 생성하고, 형상을 바꾸며 결과를 비교합니다. 브라우저와 Rhino에서 디자인 아이디어를 탐색할 수 있는 도구도 만들고 있습니다.
+
+<br>
+
+## 다루는 도구들
+
+디자인하려는 경험과 실행할 환경에 맞춰, AI와 함께 여러 언어와 프레임워크를 사용합니다.
+
+- **데스크톱** · Swift, InputMethodKit, C#, .NET, WinUI 3, Tauri, Rust
+- **웹과 인터랙션** · TypeScript, React, Three.js, WebGL, WebGPU
+- **형태와 소재** · Rhino, Python, 파라메트릭 패턴, PBR 텍스처
+
+<br>
+
+## 만들어 보는 것들
+
+[AgentGauge](https://github.com/ghostface2232/AgentGauge) · [Noten](https://github.com/ghostface2232/Noten) · [Cue](https://github.com/ghostface2232/cue) · [KnotPad](https://github.com/ghostface2232/KnotPad)  
+[Perf Pattern Generator](https://github.com/ghostface2232/PatternGenerator) · [SurfacePattern](https://github.com/ghostface2232/SurfacePattern) · [Fabricate](https://github.com/ghostface2232/fabricate)  
+[Speaker Sim](https://github.com/ghostface2232/sound-simulator) · [울림지기](https://github.com/ghostface2232/ullimjigi) · [PriType](https://github.com/ghostface2232/PriType-Swift)¹
+
+<sub>¹ PriType은 <a href="https://github.com/Meapri/PriType-Swift">Meapri/PriType-Swift</a>에서 이어온 포크입니다.</sub>
 
 <details>
-  <summary>AgentGauge 화면 보기</summary>
-  <br>
-  <img src="https://github.com/user-attachments/assets/2e961b59-b9d9-4be7-8bf8-78c42dc19e39" alt="AgentGauge 사용량 패널" width="720">
+<summary>다운로드와 바로가기</summary>
+
+[AgentGauge 다운로드](https://github.com/ghostface2232/AgentGauge/releases) · [Noten 다운로드](https://github.com/ghostface2232/Noten/releases) · [KnotPad 열기](https://ghostface2232.github.io/KnotPad/) · [전체 공개 저장소](https://github.com/ghostface2232?tab=repositories)
+
 </details>
-
-### [Noten](https://github.com/ghostface2232/Noten) · Windows
-
-노트를 로컬 Markdown 파일로 저장하는 메모 앱입니다. 슬래시 명령으로 표나 Mermaid 다이어그램을 넣고, 위키 링크로 노트를 연결할 수 있습니다. Tauri와 React를 사용했습니다.
-
-[소스 코드](https://github.com/ghostface2232/Noten) · [다운로드](https://github.com/ghostface2232/Noten/releases)
-
-<details>
-  <summary>Noten 화면 보기</summary>
-  <br>
-  <img src="https://github.com/user-attachments/assets/7b3f3e64-81b4-49bb-898f-a24f7764050b" alt="Noten의 노트 목록과 Markdown 편집 화면" width="720">
-</details>
-
-## 그 밖의 작업
-
-### 데스크톱 도구
-
-- **[Cue](https://github.com/ghostface2232/cue)** · ‘내일 오후 3시 회의 준비’처럼 한 줄로 입력하면 제목과 일정을 나눠 정리하는 Windows 할 일 앱.
-- **[PriType](https://github.com/ghostface2232/PriType-Swift)** · Swift와 InputMethodKit으로 만든 macOS용 두벌식 한글 입력기.
-
-### 웹 도구와 실험
-
-- **[KnotPad](https://github.com/ghostface2232/KnotPad)** · 무한 캔버스에 메모, 링크, 이미지를 놓고 연결하는 시각적 노트 도구. [브라우저에서 열기](https://ghostface2232.github.io/KnotPad/)
-- **[Perf Pattern Generator](https://github.com/ghostface2232/PatternGenerator)** · 타공 패턴을 밀리미터 단위로 편집하고 개구율을 확인한 뒤 DXF, SVG, PNG로 내보내는 설계 도구.
-- **[Speaker Sim](https://github.com/ghostface2232/sound-simulator)** · 소형 스피커의 리플렉터와 방사구 형상을 바꿔가며 지향성과 주파수 응답을 비교하는 음향 시뮬레이터.
-- **[울림지기](https://github.com/ghostface2232/ullimjigi)** · 모델, 텍스처, 소리를 코드로 생성하는 브라우저 기반 3D 액션 어드벤처.
-
-[전체 공개 저장소 보기](https://github.com/ghostface2232?tab=repositories)
