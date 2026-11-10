@@ -1,8 +1,8 @@
 <picture>
-  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/profile-dark-mobile.svg">
-  <source media="(max-width: 640px)" srcset="assets/profile-light-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <img src="assets/profile-light.svg" alt="Mingwan Bae · Designer. Building with AI. · Design · AI-assisted coding · macOS · Windows · Web" width="100%">
+  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/profile-dark-mobile.svg?v=2e16ae2">
+  <source media="(max-width: 640px)" srcset="assets/profile-light-mobile.svg?v=2e16ae2">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg?v=2e16ae2">
+  <img src="assets/profile-light.svg?v=2e16ae2" alt="Mingwan Bae · Designer. Building with AI. · Design · AI-assisted coding · macOS · Windows · Web" width="100%">
 </picture>
 
 ## 안녕하세요, Mingwan Bae입니다.
